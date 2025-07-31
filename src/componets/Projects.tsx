@@ -81,7 +81,7 @@ const Projects = () => {
     <section id="projects" className="bg-neutral-800 pt-20 text-white py-16 px-12">
       <div className="max-w-7xl mx-auto">
         <div className="flex space-x-28 flex-col">
-          <h2 className="text-6xl font-bold mb-6 w-96">
+          <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
             Mis Trabajos Recientes
           </h2>
           <p className="mb-12 text-gray-300 max-w-2xl">
